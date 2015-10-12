@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>First iteration</title>
+</head>
+<body>
+	<?php echo $_SERVER['DOCUMENT_ROOT']; ?>
+</body>
+</html>
