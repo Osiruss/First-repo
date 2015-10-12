@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-	<meta description='Testing out things'>
+	<meta description='Testing out'>
 	<title>First iteration</title>
 </head>
 <body>
