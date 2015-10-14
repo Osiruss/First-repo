@@ -7,7 +7,6 @@
 </head>
 <body>
 	<h1><?php echo $_SERVER['DOCUMENT_ROOT']; ?></h1>
-	<p>Adding nothing of interest</p>
 	<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vero facilis, vel accusantium expedita pariatur porro?</p>
 </body>
 </html>
