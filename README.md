@@ -1,2 +1,3 @@
 # First-repo
-# First addition
+*First addition
+*Second addition
