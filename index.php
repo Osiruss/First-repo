@@ -8,7 +8,6 @@
 <body>
 	<h1><?php echo $_SERVER['DOCUMENT_ROOT']; ?></h1>
 	<p>Adding nothing</p>
-	<h5>He is a jerk</h5>
 	<p>Lorem dolor sit amet, consectetur adipisicing elit. Vero facilis, vel accusantium expedita pariatur porro?</p>
 </body>
 </html>
