@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-	<title>About</title>
+	<title>About you</title>
 </head>
 <body>
 	<h1>Lorem ipsum dolor sit amet.</h1>
